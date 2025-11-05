@@ -15,6 +15,7 @@ C:\Users\VinodKamasani\source\repos\run-devops\Shopping\Shopping.Client\obj\Rele
 C:\Users\VinodKamasani\source\repos\run-devops\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\VinodKamasani\source\repos\run-devops\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.RazorAssemblyInfo.cache
 C:\Users\VinodKamasani\source\repos\run-devops\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.RazorAssemblyInfo.cs
+C:\Users\VinodKamasani\source\repos\run-devops\Shopping\Shopping.Client\obj\Release\net8.0\Shopping.Client.sourcelink.json
 C:\Users\VinodKamasani\source\repos\run-devops\Shopping\Shopping.Client\obj\Release\net8.0\rjimswa.dswa.cache.json
 C:\Users\VinodKamasani\source\repos\run-devops\Shopping\Shopping.Client\obj\Release\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\VinodKamasani\source\repos\run-devops\Shopping\Shopping.Client\obj\Release\net8.0\rjsmcshtml.dswa.cache.json

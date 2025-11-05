@@ -1,0 +1,6 @@
+services:
+  shopping.client:
+    image: ${DOCKER_REGISTRY-}shoppingclient
+    build:
+      context: .
+      dockerfile: Shopping.Client/Dockerfile
